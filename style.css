@@ -30,10 +30,16 @@ body {
 }
 
 /* Styling the Huddle logo */
-header  {
-    /* margin-top: 1.5rem; */
-}
 header img{
     width: 45%;
+}
+
+/* Styling the main content */
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 7.75rem;
 }
 
